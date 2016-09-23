@@ -21,7 +21,7 @@ GNU/Linux'un kullanım alanlarından bazıları; Android işletim sistemine sahi
 ![Linux](images/linux-wallpapers-penguin-dreamwallpapers.co_.uk_.jpg)
 
 ##Linux
-Linux veya GNU/Linux (telaffuz: Lin-uks); Linux çekirdeği ve çeşitli GNU araçları üzerine kurulmuş işletim sistemlerinin genel adıdır. Linux çekirdeği ve GNU araçları açık kaynak kodlu, özgür ve ücretsizdir. Kaynak kodları GNU Genel Kamu Lisansı çerçevesinde özgürce dağıtılabilir, değiştirilebilir ve kullanılabilir. Linux ismi ilk olarak Linus Torvalds tarafından yazılan ve 5 Ekim 1991'de duyurusu yapılan[1] Linux çekirdeğinden gelmektedir.
+Linux veya GNU/Linux (telaffuz: Lin-uks); Linux çekirdeği ve çeşitli GNU araçları üzerine kurulmuş işletim sistemlerinin genel adıdır. Linux çekirdeği ve GNU araçları açık kaynak kodlu, özgür ve ücretsizdir. Kaynak kodları GNU Genel Kamu Lisansı çerçevesinde özgürce dağıtılabilir, değiştirilebilir ve kullanılabilir. Linux ismi ilk olarak Linus Torvalds tarafından yazılan ve 5 Ekim 1991'de duyurusu yapılan Linux çekirdeğinden gelmektedir. [kaynak](https://tr.wikipedia.org/wiki/Linux)
 
 Yazılımın sahipsiz olması farklı kullanıcılar tarafından geliştirilmesini mümkün kılar.Bu sayede kısa sürede fazla özellik kazandırılabilir. Yazılımda oluşacak hataların düzeltilmesi de daha hızlı gerçekleşir. En önemli özelliklerden biri ise, insanlar arasında yardımlaşmayı sağlamasıdır. Böylece farklı toplumlar arasındaki bağları kuvvetlendirir. Bu sayede kişisel olarak değil evrensel olarak kazanç sağlanır. Maddi kayıp olmadığı gibi manevi kazanç sağlanır ve bu, günümüzde en çok ihtiyaç duyulan şeylerden biridir.
 
